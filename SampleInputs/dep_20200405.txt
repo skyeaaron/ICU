@@ -1,0 +1,6 @@
+DepartmentID	DepartmentNM	DepartmentSpecialtyDSC
+1	TestDepartment1	
+2	TestDepartment2	Urgent Care
+3	TestDepartment3	Home Health Services
+4	TestDepartment4	Adult Medicine
+5	TestDepartment4	Intensive Care

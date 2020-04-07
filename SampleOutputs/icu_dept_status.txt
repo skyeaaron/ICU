@@ -1,0 +1,6 @@
+﻿DepartmentID,DepartmentNM,DepartmentSpecialtyDSC,ICU,FirstICUDate,LastICUDate
+1,TestDepartment1,,No,,
+2,TestDepartment2,Urgent Care,No,,
+3,TestDepartment3,Home Health Services,No,,
+4,TestDepartment4,Intensive Care,Yes,20200406,20200406
+5,TestDepartment4,Intensive Care,Inactive,20200405,20200405
