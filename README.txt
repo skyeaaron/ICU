@@ -8,7 +8,7 @@ department was considered an ICU and the most recent date
 that a department was considered an ICU.
 Track whether department is not ICU, currently ICU, or not active.
 
-An initial version of the text file is required with 5 columns:
+An initial version of the text file is required with 5 columns and no data:
 Department ID, Department Name, Department Specialty, ICU Status, First ICU Date, Last ICU Date
 
 icu_daily_wrapper.py can be used to generate an inital run over many dates.
